@@ -1,6 +1,6 @@
 # **Rock, Paper, Scissors Game**
 
-Welcome to the **Rock, Paper, Scissors** game! This is a Python-based implementation of the popular game where you compete against the computer to see who wins. The game continues until there is a winner, and it provides feedback on the outcome of each round.
+Welcome to the **Rock, Paper, Scissors** game! This is a Python-based implementation of the popular game where you compete against the computer to see who wins. The game continues until there is a winner, and it provides feedback on the outcome of each round. To play again rerun the code!
 
 ---
 
